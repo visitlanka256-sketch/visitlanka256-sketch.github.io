@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VisitLanka256 – Travel Guide</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header class="hero">
+  <h1>VisitLanka256</h1>
+  <p>Sketch Style Travel Guide to Sri Lanka</p>
+</header>
+
+<section class="destinations">
+  <h2>Top Destinations 🇱🇰</h2>
+
+  <div class="grid">
+
+    <div class="card">
+      <img src="images/sigiriya.jpg" alt="Sigiriya">
+      <h3>Sigiriya</h3>
+      <p>The ancient rock fortress in Matale District</p>
+    </div>
+
+    <div class="card">
+      <img src="images/ella.jpg" alt="Ella">
+      <h3>Ella</h3>
+      <p>Beautiful mountains, hikes & Nine Arch Bridge</p>
+    </div>
+
+    <div class="card">
+      <img src="images/galle.jpg" alt="Galle Fort">
+      <h3>Galle Fort</h3>
+      <p>Historic Dutch fort & beautiful coast</p>
+    </div>
+
+  </div>
+</section>
+
+<footer>
+  <p>© 2025 VisitLanka256 – Made with ❤️ for Travelers</p>
+</footer>
+
+</body>
+</html>
